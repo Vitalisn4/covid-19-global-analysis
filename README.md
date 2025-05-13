@@ -59,8 +59,6 @@ This project involves building a data analysis and reporting notebook that track
 
 ## Key Insights & Reflections
 
-*(Summarize 3-5 key findings from your notebook's "Insights & Reporting" section here. Below are examples based on the notebook structure provided earlier)*
-
 1.  **Diverse Pandemic Trajectories:** Different countries experienced distinct pandemic waves at varied times and magnitudes, clearly visualized in the time-series plots for cases and deaths.
 2.  **Vaccination Rollout Disparities:** There was a significant variation in the speed and extent of vaccination rollouts across the analyzed countries and globally, as shown by vaccination progress charts and the choropleth map.
 3.  **Utility of Data Normalization:** Metrics like 'cases per million' and 'percentage of population vaccinated' provide a more equitable comparison between countries than absolute numbers, crucial for understanding relative impact and response.
