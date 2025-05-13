@@ -33,7 +33,7 @@ This project involves building a data analysis and reporting notebook that track
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/covid-19-global-analysis.git
+    git clone https://github.com/Vitalisn4/covid-19-global-analysis.git
     cd covid-19-global-analysis
     ```
 2.  **Set up a Python Environment (Recommended):**
